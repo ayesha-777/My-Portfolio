@@ -39,7 +39,7 @@ Working on real projects has helped me understand how ideas turn into functional
             </h3>
             <h1 className="items-start text-2xl">Languages</h1>
             <p className="text-gray-400 text-sm leading-relaxed">
-               <ul class="list-disc list-inside  mb-4">
+               <ul className="list-disc list-inside  mb-4">
     <li>HTML </li>
    <li>   CSS </li>
      <li> JavaScript</li>
@@ -61,7 +61,7 @@ Working on real projects has helped me understand how ideas turn into functional
             </h3>
             <h1 className="items-start text-2xl">Libraries & Frameworks</h1>
             <p className="text-gray-400 text-sm leading-relaxed">
-                <ul class="list-disc list-inside  mb-4">
+                <ul className="list-disc list-inside  mb-4">
     <li>React,TailwindCSS </li>
    <li>  Redux Toolkit </li>
     <li> Axios(Rest API Integration)</li>
